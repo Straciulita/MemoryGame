@@ -42,6 +42,15 @@ Run the MatchCards class to start the game 🎮.
 
 This project showcases how to use Java Swing for creating interactive user interfaces, utilizing layout management, action listeners, and timers to provide a fun and engaging experience. 🎉
 
+PHOTOS:
+---
+![image](https://github.com/user-attachments/assets/226a6989-48b6-4cd1-b9ab-7d05ad01314a)
+![image](https://github.com/user-attachments/assets/adc0261b-7b67-41b4-9915-cf4a88a1c9b7)
+![image](https://github.com/user-attachments/assets/b14fb895-27bd-4fc8-9dd8-d7c72576e4da)
+
+
+
+
 
   
 
