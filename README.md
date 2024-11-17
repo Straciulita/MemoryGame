@@ -12,3 +12,4 @@ How It Works 🤔
   Matching: If the two flipped cards match, they remain visible. If not, they will be flipped back after a brief delay.
   Error Count: The number of mistakes (incorrect matches) is tracked and displayed in real-time at the top of the game.
   Restart Game: You can restart the game at any time using the "Restart Game" button, which shuffles the cards and resets the error count.
+  
